@@ -1,5 +1,5 @@
 //comentario 1 linha
-console.log("Linha 1")
+console.log("Linha 1");
 
 /*
 *comentário de múltiplas
@@ -8,4 +8,12 @@ console.log("Linha 1")
 *pode 
 *escrever muitas linhas
 */
-console.log("Comentários")
+console.log("Comentários");
+
+/*
+comentário de múltiplas
+linhas
+onde
+pode 
+escrever muitas linhas
+*/
